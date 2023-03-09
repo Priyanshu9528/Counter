@@ -1,0 +1,22 @@
+body{
+    background: rgb(243, 242, 241);
+}
+.yellow{
+    background: yellow;
+}
+
+.red{
+    background: red;
+}
+ 
+
+h1{
+    border: 2px solid gray;
+    background: skyblue;
+    color: rgb(18, 70, 70);
+    text-align: center;
+}
+
+button{
+    border:3px solid black;
+}
